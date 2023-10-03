@@ -1,0 +1,6 @@
+name: LIDAPRACTICERANGE-env
+dependencies:
+  - python
+  - flake8
+  - pytest
+  - black

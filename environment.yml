@@ -4,3 +4,4 @@ dependencies:
   - flake8
   - pytest
   - black
+  - cookiecutter
